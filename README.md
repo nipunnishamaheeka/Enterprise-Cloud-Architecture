@@ -9,6 +9,12 @@
 **Enterprise Cloud Architecture** is a microservices demo app built for educational institutions.
 It demonstrates modern microservices patterns (service separation, independent data stores, file/media service), local developer ergonomics, and deployment-ready configuration for cloud providers (AWS & GCP).
 
+## Student Details 
+
+* **Name** : Nipun Nishamaheeka
+* **Student Registration Number** : 2301682067
+* **Email Address** : nishamaheeka123@gmail.com
+
 **Key services**
 
 * **Course Service** — Spring Boot + MySQL (Port **8081**)
